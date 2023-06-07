@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/furniturewebsite/static/css/main.d92c83a2.css",
+    "main.js": "/furniturewebsite/static/js/main.8e1d1cc8.js",
+    "static/media/Bed2.png": "/furniturewebsite/static/media/Bed2.2980296207008616c67e.png",
+    "static/media/Dining.png": "/furniturewebsite/static/media/Dining.0500b6c88a20371eaf12.png",
+    "static/media/Pooja.png": "/furniturewebsite/static/media/Pooja.3285809e47c9d71dde4d.png",
+    "static/media/logo.png": "/furniturewebsite/static/media/logo.f8e3c1953f246aac5b87.png",
+    "index.html": "/furniturewebsite/index.html",
+    "main.d92c83a2.css.map": "/furniturewebsite/static/css/main.d92c83a2.css.map",
+    "main.8e1d1cc8.js.map": "/furniturewebsite/static/js/main.8e1d1cc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d92c83a2.css",
+    "static/js/main.8e1d1cc8.js"
+  ]
+}
